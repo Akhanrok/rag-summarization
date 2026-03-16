@@ -2,7 +2,7 @@
 
 **The goal** of this project was to investigate how design choices in RAG pipelines affect the quality, faithfulness, and efficiency of summaries generated for long scientific documents, since the effectiveness of RAG strongly depends on parameters such as chunking strategy, retrieval depth, and reranking mechanisms. 
 
-**The primary objective** of this study is to evaluate multiple configurations and determine which components most significantly impact the results. Specifically, the project investigates: how chunk size and overlap affect retrieval quality, the impact of cross-encoder reranking, query expansion, entailment filtering, hierarchical summarization approaches, and trade-offs between retrieval depth and runtime.
+**The primary objective** of this study is to evaluate multiple configurations and determine which components most significantly impact the results. Specifically, the project investigates: how chunk size and overlap affect retrieval quality, the impact of cross-encoder reranking, entailment filtering, hierarchical summarization approaches, and trade-offs between retrieval depth and runtime.
 
 **The questions** we aim to answer are the following:
 
